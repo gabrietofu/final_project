@@ -1,5 +1,3 @@
-파일 컬럼 
-platform - Number - Store - Address - Review_score - Review_counts - ID - Date - Review_text
 컬럼
 Platform : 크롤링 한 플랫폼
 Number : 구 별 빵집 번호
