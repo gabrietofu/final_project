@@ -19,6 +19,7 @@ def find_text(col, url):
     except:
         col.append('정보없음')
 
+# 최종 데이터프레임의 종류
 info_df = pd.DataFrame()
 review_df = pd.DataFrame()
 merged_df = pd.DataFrame()
