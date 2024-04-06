@@ -75,7 +75,7 @@ while True:
     info_df = pd.concat([info_df, tmp])
   
     # [step2] 리뷰 크롤링: 에러가 나면 버튼이 없는 것이라 pass한다.
-    try:
+    try:  # 리뷰 경우의 수(1)
         review_elements = WebDriverWait(driver, 100).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@id="QA0Szd"]/div/div/div[1]/div[3]/div/div[1]/div/div/div[2]/div[3]/div/div/button[2]')))
         for element in review_elements:
             element.click()
@@ -86,13 +86,13 @@ while True:
         result = []
         time_list = []
 
-        time.sleep(random.uniform(3,4))
+        time.sleep(random.uniform(3,4))  # 리뷰 경우의 수(2)
         driver.find_element(By.CSS_SELECTOR, 'div.m6QErb.Pf6ghf.KoSBEe.ecceSd.tLjsW > div.TrU0dc.kdfrQc').click()
 
         time.sleep(random.uniform(1,3))
         driver.find_element(By.XPATH, '//*[@id="action-menu"]/div[2]').click()
 
-        time.sleep(random.uniform(2,4))
+        time.sleep(random.uniform(2,4))  # 스크롤 내리기 시작
         scroll = driver.find_element(By.XPATH, '//*[@id="QA0Szd"]/div/div/div[1]/div[3]/div/div[1]/div/div/div[3]')
         last_height = driver.execute_script("return arguments[0].scrollHeight", scroll)
         num = 0
@@ -101,7 +101,7 @@ while True:
             time.sleep(random.uniform(4, 5))
             new_height = driver.execute_script("return arguments[0].scrollHeight", scroll)
             buttons = driver.find_elements(By.CSS_SELECTOR, ".w8nwRe.kyuRq")
-            for button in buttons:
+            for button in buttons:  # 더보기 버튼 누르기
                 if button.is_displayed():
                     if button.is_enabled():
                         button.click()
@@ -128,10 +128,10 @@ while True:
         while not flag:
             reviews = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.wiI7pd')))
             
-            if not reviews:  # 리뷰 경우의수(1)
+            if not reviews:  # 리뷰 경우의수(3)
                 break
 
-            for review in reviews:  # 리뷰 경우의 수(2)
+            for review in reviews:  # 리뷰 경우의 수(4)
                 review_text = review.text
                 if review_text == last_review:
                     break
@@ -143,7 +143,7 @@ while True:
                 else:
                     flag=True
             
-            if len(result) == 1:  # 리뷰 경우의 수(3)
+            if len(result) == 1:  # 리뷰 경우의 수(5)
                 break
                 
             last_review = result[-1] if result else None
