@@ -8,4 +8,4 @@
 - ID : 리뷰 작성자
 - Date : 리뷰 작성일
 - Review_text : 리뷰
-
+- Time : 크롤링 시간
