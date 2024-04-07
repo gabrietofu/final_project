@@ -24,12 +24,8 @@ info_df = pd.DataFrame()
 review_df = pd.DataFrame()
 merged_df = pd.DataFrame()
 
-service = Service(executable_path='C:\\selenium\\msedgedriver.exe')
-options = webdriver.EdgeOptions()
-options.use_chromium = True
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-options.add_argument(f'user-agent={user_agent}')
-driver = webdriver.Chrome(service=service, options=options)
+# 크롬으로 변경
+driver = webdriver.Chrome()
 
 # [stpe1] 크롤링 시작
 url = f'https://www.google.co.kr/maps/?hl=ko&entry=ttu'
