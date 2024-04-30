@@ -1,5 +1,44 @@
 # 🍞 군집분석 기반 빵 맛집 추천 서비스
 
+</br>
+
+## 👩🏻‍💻 팀원
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/ny1yyy"><img src="https://avatars.githubusercontent.com/u/155515440?s=64&v=4" width="100px;" alt="황기쁨"/><br /><sub><b>황기쁨 (팀장)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ssoheeL"><img src="https://avatars.githubusercontent.com/u/157769634?s=64&v=4" width="100px;" alt="정노을"/><br /><sub><b>정노을</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/gabrietofu"><img src="https://avatars.githubusercontent.com/u/157769636?v=4" width="100px;" alt="이정희"/><br /><sub><b>이정희 (팀장)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/heleownae"><img src="https://avatars.githubusercontent.com/u/156559007?s=64&v=4" width="100px;" alt="배시현"/><br /><sub><b>배시현</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
+
+## 📊 분석 내용
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 일정
 
 3월 셋째주 : 데이터 수집, 개별 학습(머신러닝, 크롤링)
