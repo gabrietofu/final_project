@@ -34,8 +34,8 @@
     <tr>
       <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOolZ-W3pvrU-iwrA7fZe3U-xxFRMb97S0Ti5K_g9ZRg&s" width="100px;" alt="GPT-4-Turbo"/><br /><sub><b>GPT 4 Trubo</b></sub></a><br /></td>
       <td align="center"><img src="https://velog.velcdn.com/images/jaehye0ng2/post/91fe86a6-6825-400a-bd91-e56ae038c083/image.png" width="100px;" alt="QGIS"/><br /><sub><b>QGIS</b></sub></a><br /></td>
-      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOolZ-W3pvrU-iwrA7fZe3U-xxFRMb97S0Ti5K_g9ZRg&s" width="100px;" alt="GPT-4-Turbo"/><br /><sub><b>GPT 4 Trubo</b></sub></a><br /></td>
-      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOolZ-W3pvrU-iwrA7fZe3U-xxFRMb97S0Ti5K_g9ZRg&s" width="100px;" alt="GPT-4-Turbo"/><br /><sub><b>GPT 4 Trubo</b></sub></a><br /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px;" alt="Python"/><br /><sub><b>Python</b></sub></a><br /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="100px;" alt="scikit learn"/><br /><sub><b>scikit learn</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
