@@ -59,7 +59,7 @@ https://hi-bread-prototype.streamlit.app/
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="![2ff67bf554e8974d929fc755f523016e-removebg-preview - 복사본 - 복사본](https://github.com/gabrietofu/final_project/assets/157769636/da1fc711-f981-4640-a502-f25ec9804509)" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
+      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeMvuDO3nPO9AY-CP4N7KHbJD09LVSSec5pzXVWSwBc43Inb5" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
     </tr>
   </tbody>
 </table>
