@@ -53,8 +53,6 @@
 </br>
 
 ## Streamlit 서비스 구현
-https://hi-bread-prototype.streamlit.app/
-
 </br>
 <table>
   <tbody>
@@ -64,3 +62,4 @@ https://hi-bread-prototype.streamlit.app/
   </tbody>
 </table>
 </br>
+https://hi-bread-prototype.streamlit.app/
