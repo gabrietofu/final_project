@@ -43,6 +43,8 @@
 
 </br>
 
+## 📊 분석 과정
+![image](https://github.com/gabrietofu/final_project/assets/157769636/d0b8eec5-a156-471a-9e49-814ca48dd74b)
 
 
 
