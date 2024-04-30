@@ -62,4 +62,4 @@
   </tbody>
 </table>
 </br>
-https://hi-bread-prototype.streamlit.app/
+https://hi-bread-no-index.streamlit.app/
