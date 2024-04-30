@@ -32,7 +32,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOolZ-W3pvrU-iwrA7fZe3U-xxFRMb97S0Ti5K_g9ZRg&s" width="100px;/><br /><sub><b>GPT 4 Trubo</b></sub></a><br /></td>
+      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOolZ-W3pvrU-iwrA7fZe3U-xxFRMb97S0Ti5K_g9ZRg&s" width="100px;" alt="GPT-4-Turbo"/><br /><sub><b>GPT 4 Trubo</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/augnoel"><img src="https://avatars.githubusercontent.com/u/157769634?s=64&v=4" width="100px;" alt="정노을"/><br /><sub><b>정노을</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/gabrietofu"><img src="https://avatars.githubusercontent.com/u/157769636?v=4" width="100px;" alt="이정희"/><br /><sub><b>이정희</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/dataosean"><img src="https://avatars.githubusercontent.com/u/156559007?s=64&v=4" width="100px;" alt="배시현"/><br /><sub><b>배시현</b></sub></a><br /></td>
