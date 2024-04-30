@@ -55,3 +55,13 @@
 ## Streamlit 서비스 구현
 https://hi-bread-prototype.streamlit.app/
 
+
+</br>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/DIB-PP"><img src="https://avatars.githubusercontent.com/u/155515440?s=64&v=4" width="100px;" alt="황기쁨"/><br /><sub><b>황기쁨 (팀장)</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+</br>
