@@ -59,7 +59,7 @@ https://hi-bread-prototype.streamlit.app/
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeMvuDO3nPO9AY-CP4N7KHbJD09LVSSec5pzXVWSwBc43Inb5" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
+      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeMvuDO3nPO9AY-CP4N7KHbJD09LVSSec5pzXVWSwBc43Inb5" width="100px;" alt="Hi bread"/>
     </tr>
   </tbody>
 </table>
