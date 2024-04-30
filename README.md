@@ -60,7 +60,7 @@ https://hi-bread-prototype.streamlit.app/
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://thumb2.photo.mybox.naver.com/3472568896136069696?type=m1280_1280_2&nocache=1152172604" width="100px;"/><br /><sub><b>Hi bread)</b></sub></a><br /></td>
+      <td align="center"><img src="https://thumb2.photo.mybox.naver.com/3472568896136069696?type=m1280_1280_2&nocache=1152172604" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
     </tr>
   </tbody>
 </table>
