@@ -55,12 +55,11 @@
 ## Streamlit 서비스 구현
 https://hi-bread-prototype.streamlit.app/
 
-
 </br>
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://thumb2.photo.mybox.naver.com/3472568896136069696?type=m1280_1280_2&nocache=1152172604" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
+      <td align="center"><img src="![2ff67bf554e8974d929fc755f523016e-removebg-preview - 복사본 - 복사본](https://github.com/gabrietofu/final_project/assets/157769636/da1fc711-f981-4640-a502-f25ec9804509)" width="100px;" alt="Hi bread"/><br /><sub><b>Hi bread</b></sub></a><br /></td>  
     </tr>
   </tbody>
 </table>
