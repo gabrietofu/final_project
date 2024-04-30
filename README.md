@@ -10,7 +10,7 @@
       <td align="center"><a href="https://github.com/DIB-PP"><img src="https://avatars.githubusercontent.com/u/155515440?s=64&v=4" width="100px;" alt="황기쁨"/><br /><sub><b>황기쁨 (팀장)</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/augnoel"><img src="https://avatars.githubusercontent.com/u/157769634?s=64&v=4" width="100px;" alt="정노을"/><br /><sub><b>정노을</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/gabrietofu"><img src="https://avatars.githubusercontent.com/u/157769636?v=4" width="100px;" alt="이정희"/><br /><sub><b>이정희</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/dataosean"><img src="https://avatars.githubusercontent.com/u/156559007?s=64&v=4" width="100px;" alt="배시현"/><br /><sub><b>배시현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dataosean"><img src="https://avatars.githubusercontent.com/u/156559007?s=64&v=4" width="100px;" alt="배시현"/><br /><sub><b>배시현</b></sub></a><br /></td>      
     </tr>
   </tbody>
 </table>
@@ -36,6 +36,7 @@
       <td align="center"><img src="https://velog.velcdn.com/images/jaehye0ng2/post/91fe86a6-6825-400a-bd91-e56ae038c083/image.png" width="100px;" alt="QGIS"/><br /><sub><b>QGIS</b></sub></a><br /></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px;" alt="Python"/><br /><sub><b>Python</b></sub></a><br /></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="100px;" alt="scikit learn"/><br /><sub><b>scikit learn</b></sub></a><br /></td>
+      <td align="center"><img src="https://blog.zarathu.com/posts/2023-02-01-streamlit/logo.jpeg" width="100px;" alt="streamlit"/><br /><sub><b>streamlit</b></sub></a><br /></td>  
     </tr>
   </tbody>
 </table>
