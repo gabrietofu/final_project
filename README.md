@@ -52,7 +52,7 @@
 
 </br>
 
-## Streamlit 서비스 구현
+## 🖥Streamlit 서비스 구현
 </br>
 <table>
   <tbody>
